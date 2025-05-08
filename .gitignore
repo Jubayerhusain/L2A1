@@ -6,7 +6,6 @@ dist/
 build/
 
 # environment variables
-.env
 
 # logs
 logs/
@@ -18,3 +17,4 @@ Thumbs.db
 
 # TypeScript cache
 *.tsbuildinfo
+config.bat
