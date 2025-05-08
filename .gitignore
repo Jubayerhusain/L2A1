@@ -1,0 +1,20 @@
+# node modules (সব dependency ফোল্ডার)
+node_modules/
+
+# compiled output
+dist/
+build/
+
+# environment variables
+.env
+
+# logs
+logs/
+*.log
+
+# system files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
